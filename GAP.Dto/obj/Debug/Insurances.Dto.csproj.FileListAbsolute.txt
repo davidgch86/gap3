@@ -1,0 +1,6 @@
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Dto\bin\Debug\Insurances.Dto.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Dto\bin\Debug\Insurances.Dto.pdb
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Dto\obj\Debug\Insurances.Dto.csprojAssemblyReference.cache
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Dto\obj\Debug\Insurances.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Dto\obj\Debug\Insurances.Dto.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Dto\obj\Debug\Insurances.Dto.pdb

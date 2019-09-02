@@ -1,0 +1,14 @@
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\bin\Debug\Insurances.Model.dll.config
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\bin\Debug\Insurances.Model.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\bin\Debug\Insurances.Model.pdb
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\bin\Debug\EntityFramework.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\bin\Debug\Insurances.Dto.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\bin\Debug\Insurances.Dto.pdb
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\bin\Debug\EntityFramework.xml
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\obj\Debug\Insurances.Model.csprojAssemblyReference.cache
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\obj\Debug\Insurances.Model.csproj.CoreCompileInputs.cache
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\obj\Debug\Insurances.Model.csproj.CopyComplete
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\obj\Debug\Insurances.Model.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Model\obj\Debug\Insurances.Model.pdb

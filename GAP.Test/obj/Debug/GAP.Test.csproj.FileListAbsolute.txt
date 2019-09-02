@@ -1,0 +1,14 @@
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\bin\Debug\Insurances.Test.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\bin\Debug\Insurances.Test.pdb
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\obj\Debug\GAP.Test.csprojAssemblyReference.cache
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\obj\Debug\GAP.Test.csproj.CoreCompileInputs.cache
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\obj\Debug\GAP.Test.csproj.CopyComplete
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\obj\Debug\Insurances.Test.dll
+C:\Users\Excel\Downloads\GAP-Insurances-master\Insurances.Test\obj\Debug\Insurances.Test.pdb
